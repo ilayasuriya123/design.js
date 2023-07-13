@@ -1,0 +1,36 @@
+body{
+    background:blue;
+}
+h1
+{
+background:burlywood;
+color: red;
+height:100px;
+text-align:center;
+padding-top:50px;
+}
+
+h3
+{
+background:pink; 
+color: red;
+height:100px;
+text-align:center;
+padding-top:xx-large;
+
+}
+div
+{
+    background:red;
+    height:50px;
+    width:400px;
+    margin:auto;
+
+}
+p
+{
+    text-align:center;
+    padding-top:10px;
+    font-size: x-large;
+    font-weight: bolder;
+}
